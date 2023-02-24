@@ -1,0 +1,11 @@
+{
+    "name": "Weather Extension",
+    "version": "1.0.0",
+    "description": "Get the current weather for a specified city",
+    "manifest_version": 3,
+    "author": "Ronak P.",
+    "action": {
+      "default_title": "Get Weather",
+      "default_popup": "index.html"
+    }
+}
